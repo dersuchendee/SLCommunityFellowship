@@ -13,12 +13,12 @@
 
 crminf:I10_Provenance_Statement
       rdf:type rdfs:Class ;
-      rdfs:label "This class comprises statements about the provenance of an instance of E73 Information Object with known content at the time of making the provenance statements. An instance of I10 Provenance Statement must contain propositions about the presence of a carrier of the respective instance of E73 Information Object in an event or spatiotemporal context of reference. Characteristically, it may pertain to the writing by a known author at a known or unknown date or place, or to the existence of the text known to some public regardless the truth of authorship. "@en ;
+      rdfs:comment "This class comprises statements about the provenance of an instance of E73 Information Object with known content at the time of making the provenance statements. An instance of I10 Provenance Statement must contain propositions about the presence of a carrier of the respective instance of E73 Information Object in an event or spatiotemporal context of reference. Characteristically, it may pertain to the writing by a known author at a known or unknown date or place, or to the existence of the text known to some public regardless the truth of authorship. "@en ;
       rdfs:subClassOf crminf:I4_Proposition_Set .
 
 crminf:I6_Belief_Value
       rdf:type owl:Class ;
-      rdfs:label "This class comprises any encoding of the value of the truth of an I2 Belief. It may be expressed in terms of discrete logic, modal logic, probability, fuzziness or other adequate representational system."^^xsd:string ;
+      rdfs:comment "This class comprises any encoding of the value of the truth of an I2 Belief. It may be expressed in terms of discrete logic, modal logic, probability, fuzziness or other adequate representational system."^^xsd:string ;
       rdfs:subClassOf rdfs:Resource .
 
 crminf:J5_holds_to_be
@@ -30,27 +30,27 @@ crminf:J5_holds_to_be
 
 :Agent_Related_Statement
       rdf:type rdfs:Class ;
-      rdfs:label "Statement about agent. "@en ;
+      rdfs:comment "Statement about agent. "@en ;
       rdfs:subClassOf crminf:I4_Proposition_Set .
 
 :Functional_Statement
       rdf:type rdfs:Class ;
-      rdfs:label "Statement about a function. "@en ;
+      rdfs:comment "Statement about a function. "@en ;
       rdfs:subClassOf crminf:I4_Proposition_Set .
 
 :Material_Attribution_Statement
       rdf:type rdfs:Class ;
-      rdfs:label "Statement about material attribution. "@en ;
+      rdfs:comment "Statement about material attribution. "@en ;
       rdfs:subClassOf crminf:I4_Proposition_Set .
 
 :accordingTo
       rdf:type owl:ObjectProperty ;
       rdfs:domain crminf:I6_Belief_Value ;
-      rdfs:label "According to. "@en ;
+      rdfs:comment "According to. "@en ;
       rdfs:range crmsci:S4_Observation .
 
 :hasContributor
       rdf:type owl:ObjectProperty ;
       rdfs:domain cidoc-crm:E73_Information_Object ;
-      rdfs:label "Making contribution explicit. "@en ;
+      rdfs:comment "Making contribution explicit. "@en ;
       rdfs:range cidoc-crm:E39_Actor .
