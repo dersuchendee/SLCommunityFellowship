@@ -3,6 +3,7 @@
 In today's interconnected and diverse world, understanding and accommodating multiple perspectives, viewpoints, and languages is crucial. Multivocality refers to the coexistence of multiple voices or perspectives within a given context. The field of semantic technologies provides a powerful framework for representing knowledge in a machine-readable format through ontologies, also known as data models. By developing an ontology focused on multivocality, we can embrace diverse perspectives and foster a more inclusive and comprehensive machine-readable understanding of the world.
 
 ## A definition of multivocality
+
 Multivocality involves recognizing and incorporating the existence of multiple voices, languages, and cultural perspectives within a particular domain. It acknowledges that different stakeholders or communities may have their own distinct terminologies, concepts, and interpretations. By considering these diverse perspectives, we can overcome biases, promote inclusivity, and avoid the imposition of a single dominant viewpoint.
 
 ## Multivocality in the Sloane Collections
@@ -16,6 +17,7 @@ In particular, historical collections like the Sloane Collections often carry th
 By doing so, it is possible to encourage public engagement with the Sloane Collections by providing platforms for diverse communities to contribute their knowledge, stories, and interpretations. By actively involving a broader range of voices, the collections become more accessible, relatable, and engaging to a wider audience. This approach promotes inclusivity, breaks down barriers, and fosters a sense of ownership and pride among various communities.
 
 ## Designing the Muitivocality Ontology:
+
 To create an ontology that captures multivocality, we must consider several key aspects:
 
 1. Multiple Lexicons: The ontology should account for various terminologies, synonyms, and language variations associated with a given domain. By incorporating multiple lexicons, we can facilitate communication across diverse communities and bridge the gaps caused by language differences.
@@ -23,6 +25,8 @@ To create an ontology that captures multivocality, we must consider several key 
 2. Contextual Relationships: An ontology focused on multivocality should represent the contextual relationships between concepts and the different perspectives associated with them. This allows for a nuanced understanding of how concepts are interpreted within specific cultural, linguistic, or disciplinary contexts.
 
 3. Mapping and Alignment: Mapping and aligning concepts from different vocabularies is essential to establish connections and enable knowledge integration across diverse perspectives. This process involves identifying equivalent or similar concepts in different terminologies and creating relationships between them.
+
+The data model extend the CRMinf and CRMsci ontologies to take into account these perspectives.
 
 ## Benefits and Applications:
 
