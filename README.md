@@ -46,5 +46,5 @@ This ontology model offers several benefits and applications:
 
 ## Resources
 
-1. [Ontology documentation:](https://github.com/dersuchendee/SLCommunityFellowship/tree/main/Ontology%20documentation) 
-2. [Ontology HTML visualisation:](https://dersuchendee.github.io/MultivOntoWebsite/index-en.html)
+1. [Ontology documentation](https://github.com/dersuchendee/SLCommunityFellowship/tree/main/Ontology%20documentation) 
+2. [Ontology HTML visualisation](https://dersuchendee.github.io/MultivOntoWebsite/index-en.html)
