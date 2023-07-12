@@ -3,7 +3,8 @@
 |--------------|------|-----------------------------------------------------|---------|--------------------|---|
 | Sage         | Sage | Cultural heritage student, first year of University | Persona | Sage1#Serendipity  |   |
 |              |      |                                                     |         |                    |   |
-|              |      |                                                     |         |                    |   |                               
+|              |      |                                                     |         |                    |   |         
+
 ---
 
 # Sage
