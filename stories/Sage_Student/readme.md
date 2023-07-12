@@ -1,4 +1,4 @@
----
+
 | Component id | Name | Description                                         | Type    | Related components |
 |--------------|------|-----------------------------------------------------|---------|--------------------|
 | Sage         | Sage | Cultural heritage student, first year of University | Persona | Sage1-Serendipity  |
@@ -6,7 +6,7 @@
 |              |      |                                                     |         |                    |
    
 
----
+
 
 # Sage
 
