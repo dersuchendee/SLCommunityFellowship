@@ -1,6 +1,6 @@
 ## User Stories
 
-This is a shared common space to share stories for the Polifonia project. A story is a template for collecting requirements.
+This is a shared common space to share stories for this Community Fellowship project. A story is a template for collecting requirements.
 
 A story is composed of:
 
