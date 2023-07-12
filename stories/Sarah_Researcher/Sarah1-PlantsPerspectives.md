@@ -4,7 +4,7 @@
 
 
 
-# Serendipity
+# Plant perspectives
 
 ## Persona
 Sarah is a researcher in Cultural Heritage studies. As a Cultural Heritage Researcher studying the Sloane Collections, she wants to explore different interpretations of plant specimens to gain a comprehensive understanding of their significance and cultural context.
