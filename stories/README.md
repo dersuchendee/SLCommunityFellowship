@@ -17,4 +17,4 @@ A story is composed of:
 -   **Competency questions (CQs)**
     -   Question(s) the persona needs the resource/software/service to answer for satisfying their task/need/problem.
 -   **Resources (optional)**
-    -   List of resources (with references/links) where it is expected or known that the persona can find what she's looking for.
+    -   List of resources (with references/links) where it is expected or known that the persona can find what they're looking for.
