@@ -8,7 +8,7 @@
 
 
 
-# Sage
+# Sarah
 
 This is a description of the persona Sarah.
 
