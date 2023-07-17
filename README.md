@@ -31,7 +31,9 @@ To create an ontology that captures multivocality, we must consider several key 
 
 3. Mapping and Alignment: Mapping and aligning concepts from different vocabularies is essential to establish connections and enable knowledge integration across diverse perspectives. This process involves identifying equivalent or similar concepts in different terminologies and creating relationships between them.
 
-The data model extend the CRMinf and CRMsci ontologies to take into account these perspectives.
+The data model extends the CRMinf and CRMsci ontologies to take into account these perspectives.
+
+![Multivocality Ontology Diagram](mv-onto-image.jpg)
 
 ## Benefits and Applications
 
