@@ -20,6 +20,8 @@ Research questions to address are:
 
 1. What key aspects should be considered when designing an approach or framework that embraces multivocality within the cultural heritage domain?
 2. How to simultaneously represent contrasting viewpoints and interpretations derived from an observation?
+3. How to address and represent often invisible and unacknowledged contributors to the collection, both explicit and implicit ones?
+
 
 ## Designing the Muitivocality Ontology
 
@@ -39,7 +41,7 @@ The data model extends the CRMinf and CRMsci ontologies to take into account the
 
 This ontology model offers several benefits and applications:
 
-1. Cross-Cultural Collaboration: By embracing diverse perspectives and incorporating multiple vocabularies, the ontology promotes collaboration and understanding across different cultures, languages, and communities, and represents a comprehensive view on the history of artifacts..
+1. Cross-Cultural Collaboration: By embracing diverse perspectives and incorporating multiple vocabularies, the ontology promotes collaboration and understanding across different cultures, languages, and communities, and represents a comprehensive view on the history of artifacts.
 
 2. Enhanced Data Integration: The ontology facilitates the integration of data from diverse sources, enabling interoperability and knowledge sharing between different systems and domains.
 
@@ -55,11 +57,11 @@ The module addresses the following competency questions:
 2. What are all the belief values for a specific information entity?
 3. Is there anyone who made an observation about someone else's belief value?
 4. What are the types of statement made about an artifact that are common across information entities?
-5. Whho are the contributors that contributed to an information entity?
+5. Who are the contributors that contributed to an information entity?
 
 Use cases for the Sloane Collections can be the following:
 
-1. Accounts for different interpretations of plant speciments;
+1. Accounts for different interpretations of plant specimens;
 2. Addressing contribution of both documented and invisible collectors of plant specimens;
 3. Contrasting opinion about material, provenance, technique, function, attribution of an object within information records;
 4. Representing uncertainty about the function of an object;
