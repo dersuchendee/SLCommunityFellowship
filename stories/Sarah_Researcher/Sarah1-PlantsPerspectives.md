@@ -32,7 +32,7 @@ Sarah uses:
 - Books and articles relevant to the domain of research
 - Plant specimens catalogues
 
-Sage could be helped by:
+Sarah could be helped by:
 - A technology to find and easily exolore archival and historical plant specimens resources;
 - A technology to seek for relations and connetions between plant specimen records and their interpretations;
 - A technology to visualize the above-mentioned contents.
