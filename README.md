@@ -8,7 +8,7 @@ Multivocality involves recognizing and incorporating the existence of multiple v
 
 ## Multivocality in the Sloane Collections
 
-Multivocality is highly relevan in the context of the Sloane Collections for several reasons. 
+Multivocality is highly relevant in the context of the Sloane Collections for several reasons. 
 
 The Sloane Collections encompass a vast array of cultural artifacts, natural history specimens, and manuscripts gathered by Sir Hans Sloane during his lifetime. These collections originate from diverse regions, cultures, and time periods, representing the rich tapestry of human history and knowledge. Embracing multivocality allows us to acknowledge and appreciate the various perspectives, traditions, and narratives associated with these objects. Furthermore, as these items hold multiple interpretations, it is important to capture them to move beyond a single, flat interpretation imposed by a single disciplinary lens.
 
